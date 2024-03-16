@@ -1,4 +1,4 @@
-# Create a Mock Server using Faker.js and JSON server
+# Mock Server using Faker.js and JSON server
 
 Use the faker library and json-server to create a mock server which we can use to prototype our frontend
 application quickly.
