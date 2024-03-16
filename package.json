@@ -1,5 +1,5 @@
 {
-  "name": "studious-palm-tree",
+  "name": "mock-server-app",
   "version": "1.0.0",
   "description": "How to use the faker library and json-server to create a mock server which we can use to prototype our frontend application quickly.",
   "main": "app.js",
